@@ -11,8 +11,8 @@ Uses **parallel arrays** for in-memory storage and text files for persistence.
 | Name             | Registration Number | Program               | Role (Assignment)                                          |
 |------------------|----------------------|-----------------------|------------------------------------------------------------|
 | Augustine Daka   | 2410310       | Diploma in IT         | Member A — Authentication & File I/O Lead (C++ & user    |
-| ALICE MULENGA     | 2410574       | Diploma in IT         | Member B — Course CRUD & Array Management Lead (C++)       |
-| ALICE ZULU    | 2410639       | Diploma in IT         | Member C — Search/Update & Java Lead (Java translation)    |
+| ALICE ZULU     |    2410639    | Diploma in IT         | Member B — Course CRUD & Array Management Lead (C++)       |
+| ALICE MULENGA    |    2410574   | Diploma in IT         | Member C — Search/Update & Java Lead (Java translation)    |
 
 ---
 
@@ -32,3 +32,4 @@ This console-based Course Management System supports:
 Format: `username,password` (one per line)
 
 Example:
+
